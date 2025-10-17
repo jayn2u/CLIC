@@ -117,10 +117,10 @@ This work uses code/models from:
 ### Citation
 If you find this repository useful, please consider citing our paper:
 ```bibtex
-@article{peleg2025advancing,
+@inproceedings{peleg2025advancing,
   title={Advancing Compositional Awareness in CLIP with Efficient Fine-Tuning},
   author={Peleg, Amit and Singh, Naman Deep and Hein, Matthias},
-  journal={arXiv preprint arXiv:2505.24424},
-  year={2025}
+  booktitle = {NeurIPS},
+  year = {2025}
 }
 ```

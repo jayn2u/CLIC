@@ -8,7 +8,7 @@
 
 > Advancing Compositional Awareness in CLIP with Efficient Fine-Tuning |
 > [Amit Peleg*](mailto:amit.peleg@uni-tuebingen.de), [Naman Singh*](mailto:naman-deep.singh@uni-tuebingen.de), [Matthias Hein](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/maschinelles-lernen/team/prof-dr-matthias-hein/) |
-> arXiv, 2025
+> NeurIPS, 2025
 
 ### Installation
 
